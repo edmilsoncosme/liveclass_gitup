@@ -26,12 +26,13 @@
     <body>
         <section class="register">
             <header>
-                <h1>jQuery, AJAX, jSON e PHP</h1>
+                <h1>Testando alteração</h1>
+               
                 <p>Criando Aplicações Real-Time com PHP e jQuery!</p>
             </header>
 
             <form name="user_register" method="post" action="">
-                <div class="trigger trigger-error">ERRO</div>
+                <div class="trigger trigger-error">erro</div>
                 <div class="trigger trigger-success">SUCESSO</div>
                 
                 <input type="text" name="user_name" placeholder="Nome:"/>
@@ -44,10 +45,9 @@
             </form>
 
             <article class="user_box">
-                <h1>Robson V. Leite <span></span></h1>
-                <p>cursos@upinside.com.br (Nível 3)</p>
-                <span class="action edit">Editar</span>
-                <span class="action del">Deletar</span>
+                <h1>Edmilson Cosme <span></span></h1>
+                
+             
             </article>
         </section>
     </body>
