@@ -3,7 +3,7 @@
     <head>
         <meta charset="UTF-8">
         <meta name="mit" content="2017-08-15T18:43:33-03:00+34377">
-        <title>Curso Work Series - PHP Orientado a Objetos alteando para ver conflito!</title>
+        <title>Curso Work Series - PHP Orientado a Objetos!</title>
 
         <style>
             *{margin: 0; padding: 0; box-sizing: border-box;}
